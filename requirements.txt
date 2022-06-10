@@ -1,0 +1,4 @@
+fastapi
+nsfw_detector
+uvicorn
+python-multipart
